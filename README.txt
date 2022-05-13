@@ -589,3 +589,10 @@ Volatility.
 
     https://github.com/volatilityfoundation/volatility/wiki
 
+=====================================================================
+
+This are all the documentation of volatility in PY but there something more included that is the archive tools_forensic.PY
+That is a way to execute Sysinternals, Volatility and MacMatch
+
+The requirements of This code is to use the sysinternals of windows in the same directory of the code
+
